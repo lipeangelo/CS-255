@@ -38,4 +38,4 @@ My approach to designing software is to first understand the problem, then break
 ## Author
 Filipe Angelo  
 Southern New Hampshire University  
-Computer Science – Software Engineering
+Computer Science
